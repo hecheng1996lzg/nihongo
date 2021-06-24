@@ -1,5 +1,8 @@
 # frontend
 
+## bilibili
+[:av44232070](https://www.bilibili.com/video/av44232070) 
+
 ## Project setup
 ```
 npm install
@@ -19,3 +22,4 @@ npm run build
 ```
 npm run lint
 ```
+# lineGame
